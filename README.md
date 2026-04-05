@@ -1,51 +1,120 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png" alt="Developer Banner" style="max-width: 100%; height: auto;"/>
+  <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png" alt="Developer Banner" width="100%"/>
 </p>
 
-# Hi there, I'm Yash Ankush Satpute 👋
+<h1 align="center">Hi 👋, I'm Yash Ankush Satpute</h1>
+<h3 align="center">🚀 AI & Full Stack Developer | Building Smart Web Applications</h3>
 
-Welcome to my GitHub profile! I'm a passionate developer eager to explore new technologies, enhance my skills, and contribute to the tech community. 
+---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 **Student:** Third-Year Information Technology Student (TYIF)
-- 💻 **Industrial Training:** Web Design & Development at InnovationsHub Pvt. Ltd.
-- 📱 **Projects:** Currently working on Android-based Image Steganography System, AI-powered Trip Planner Web Application, AI Content Generator, and AI Form Builder SaaS Application.
-- 🌱 **Learning:** Next.js, React, TailwindCSS, Drizzle ORM, Neon, Gemini API, Clerk, and Vercel.
-- 🧪 **Interests:** Software Development, AI Integration, API Development, SaaS Applications, and Web Hosting.
-- 💬 **Ask Me About:** Web Development, AI-based Applications, Next.js, React, API Integrations, and SaaS Platforms.
+🎓 Third-Year Engineering Student (AI & Data Science)  
+💼 Industrial Training in **Web Design & Development** @ InnovationsHub Pvt. Ltd.  
+🚀 Passionate about **AI-powered applications & SaaS development**  
+🌱 Currently exploring **Full Stack + AI Integration**  
+💡 Love building real-world scalable projects  
 
-## 💡 Programming Languages
+---
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+## ⚡ Tech Stack
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,js" />
 </p>
 
-## 🗂️ Featured Projects
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,express" />
+</p>
 
-- [AI Form Builder SaaS Application](https://github.com/Yash-Satpute-2711/ai-form-builder.git) - A smart form builder powered by AI, using Next.js, React, and TailwindCSS.
-- [AI Content Generator](https://github.com/Yash-Satpute-2711/project2) - A content creation tool leveraging APIs and AI for dynamic content generation.
-- [AI Trip Planner](https://github.com/Yash-Satpute-2711/project3) - A web app for personalized trip planning using AI algorithms and APIs.
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,vercel,git,github" />
+</p>
+
+### ⚙️ Technologies & Platforms
+- Next.js, React.js, TailwindCSS  
+- Drizzle ORM, Neon DB  
+- Clerk Authentication  
+- Gemini API (AI Integration)  
+- REST APIs & SaaS Architecture  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AI Form Builder SaaS
+👉 https://github.com/Yash-Satpute-2711/ai-form-builder  
+- AI-powered dynamic form generation  
+- Authentication using Clerk  
+- Deployed on Vercel  
+- Future Scope: Payments & Analytics  
+
+---
+
+### 🔹 AI Content Generator
+👉 https://github.com/Yash-Satpute-2711/project2  
+- Generates content using AI APIs  
+- Clean UI with React + Tailwind  
+- Supports multiple content formats  
+
+---
+
+### 🔹 AI Trip Planner 🌍
+👉 https://github.com/Yash-Satpute-2711/project3  
+- Personalized travel planning using AI  
+- API-based destination suggestions  
+- Smart itinerary generation  
+
+---
+
+### 🔹 Image Steganography System 🔐 *(Ongoing)*
+- Android-based application  
+- Hide secret data inside images  
+- Uses image processing & security concepts  
+
+---
 
 ## 📊 GitHub Stats
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-Satpute-2711&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Satpute-2711&show_icons=true&theme=radical" />
+</p>
 
-## 🗣️ Top Languages
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Satpute-2711&layout=compact&theme=radical)
+## 🔥 Top Languages
 
-## 🌐 Connect with Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Satpute-2711&layout=compact&theme=radical" />
+</p>
 
-- 📧 **Email:** [yasatpute27@gmail.com](mailto:yasatpute27@gmail.com)
-- 💼 **LinkedIn:** [Yash Satpute](https://www.linkedin.com/in/your-linkedin-profile/)
-- 📸 **Instagram:** [@y_a_s_h_2711](https://www.instagram.com/y_a_s_h_2711/)
+---
 
-Thank you for visiting my profile! Let's connect, collaborate, and code together. 🚀
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Satpute-2711&theme=react-dark" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: **yasatpute27@gmail.com**  
+💼 LinkedIn: *Add your correct link here*  
+📸 Instagram: https://www.instagram.com/y_a_s_h_2711/  
+
+---
+
+## ✨ Fun Fact
+
+💡 *I love turning ideas into real-world AI applications and SaaS products.*
+
+---
+
+<p align="center">
+  ⭐️ From <b>Yash Satpute</b> — Let's build something amazing together!
+</p>
