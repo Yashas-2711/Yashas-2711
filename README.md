@@ -14,13 +14,24 @@
 
 <p align="center">
   <a href="mailto:yasatpute27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
-  <a href="https://github.com/Yash-Satpute-2711">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  <a href="https://github.com/Yashas-2711">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
+
   <a href="https://www.instagram.com/y_a_s_h_2711/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img
+      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
   </a>
 </p>
 
@@ -28,12 +39,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Third-Year Engineering student specializing in **Artificial Intelligence and Data Science**
-- 💼 Completed industrial training in **Web Design and Development** at **InnovationsHub Pvt. Ltd.**
-- 🚀 Passionate about building **AI-powered applications, SaaS platforms, and full-stack systems**
-- 🌱 Currently exploring **Generative AI, mobile development, cloud deployment, and scalable backend architecture**
-- 💡 I enjoy converting real-world problems into useful software products
-- 🤝 Open to collaborating on innovative **AI, web, mobile, and data-driven projects**
+* 🎓 Third-Year Engineering student specializing in **Artificial Intelligence and Data Science**
+* 💼 Completed industrial training in **Web Design and Development** at **InnovationsHub Pvt. Ltd.**
+* 🚀 Passionate about building **AI-powered applications, SaaS platforms, and full-stack systems**
+* 🌱 Currently exploring **Generative AI, mobile development, cloud deployment, and scalable backend architecture**
+* 💡 I enjoy converting real-world problems into useful software products
+* 🤝 Open to collaborating on innovative **AI, web, mobile, and data-driven projects**
 
 ---
 
@@ -86,15 +97,15 @@
 
 ### 🚀 Additional Technologies
 
-- React Native and Expo
-- REST APIs
-- JWT Authentication
-- Google Gemini API
-- Clerk Authentication
-- Drizzle ORM
-- Sequelize ORM
-- Neon PostgreSQL
-- SaaS Application Architecture
+* React Native and Expo
+* REST APIs
+* JWT Authentication
+* Google Gemini API
+* Clerk Authentication
+* Drizzle ORM
+* Sequelize ORM
+* Neon PostgreSQL
+* SaaS Application Architecture
 
 ---
 
@@ -106,13 +117,13 @@ An AI-powered mobile application that identifies medicines from captured or uplo
 
 **Key Features**
 
-- Captures or uploads medicine images
-- Identifies medicine names using the Google Gemini API
-- Displays generic name, dosage, uses, side effects, warnings, manufacturer, and category
-- Provides AI confidence information
-- Supports text-to-speech for medicine details
-- Stores user scan history
-- Designed for Android using React Native and Expo
+* Captures or uploads medicine images
+* Identifies medicine names using the Google Gemini API
+* Displays generic name, dosage, uses, side effects, warnings, manufacturer, and category
+* Provides AI confidence information
+* Supports text-to-speech for medicine details
+* Stores user scan history
+* Designed for Android using React Native and Expo
 
 **Technology Stack**
 
@@ -128,14 +139,14 @@ A full-stack college management platform for handling students, courses, attenda
 
 **Key Features**
 
-- Student registration and profile management
-- Course creation and student enrollment
-- Attendance management
-- Internal, external, practical, and assignment marks
-- Fee payment and pending-fee tracking
-- Role-based administrative dashboard
-- JWT-based authentication and authorization
-- Reports, filters, and academic analytics
+* Student registration and profile management
+* Course creation and student enrollment
+* Attendance management
+* Internal, external, practical, and assignment marks
+* Fee payment and pending-fee tracking
+* Role-based administrative dashboard
+* JWT-based authentication and authorization
+* Reports, filters, and academic analytics
 
 **Technology Stack**
 
@@ -149,16 +160,15 @@ A full-stack college management platform for handling students, courses, attenda
 
 An AI-powered SaaS platform that generates customizable forms from natural-language prompts.
 
-
 **Key Features**
 
-- Generates forms using natural-language prompts
-- Supports customizable form fields and layouts
-- Provides secure authentication using Clerk
-- Stores forms and responses in Neon PostgreSQL
-- Allows users to collect and manage responses
-- Supports themes and background customization
-- Deployed using Vercel
+* Generates forms using natural-language prompts
+* Supports customizable form fields and layouts
+* Provides secure authentication using Clerk
+* Stores forms and responses in Neon PostgreSQL
+* Allows users to collect and manage responses
+* Supports themes and background customization
+* Deployed using Vercel
 
 **Technology Stack**
 
@@ -174,14 +184,14 @@ A habit-management application designed to help users build routines, record dai
 
 **Planned Features**
 
-- Create and manage personal habits
-- Mark daily habit completion
-- Track current and longest streaks
-- View weekly and monthly progress
-- Display charts and completion statistics
-- Provide habit reminders
-- Generate personalized progress insights
-- Store individual user history securely
+* Create and manage personal habits
+* Mark daily habit completion
+* Track current and longest streaks
+* View weekly and monthly progress
+* Display charts and completion statistics
+* Provide habit reminders
+* Generate personalized progress insights
+* Store individual user history securely
 
 **Planned Technology Stack**
 
@@ -195,9 +205,8 @@ A habit-management application designed to help users build routines, record dai
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Yashas-2711&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashas-2711&theme=radical"
     alt="Yash Satpute GitHub Statistics"
-    height="180"
   />
 </p>
 
@@ -207,9 +216,8 @@ A habit-management application designed to help users build routines, record dai
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas-2711&layout=compact&theme=radical&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashas-2711&theme=radical"
     alt="Yash Satpute Most-Used Programming Languages"
-    height="180"
   />
 </p>
 
@@ -231,10 +239,10 @@ A habit-management application designed to help users build routines, record dai
 
 ## 🌐 Connect With Me
 
-- 📧 **Email:** [yasatpute27@gmail.com](mailto:yasatpute27@gmail.com)
-- 💻 **GitHub:** [github.com/Yash-Satpute-2711](https://github.com/Yash-Satpute-2711)
-- 📸 **Instagram:** [instagram.com/y_a_s_h_2711](https://www.instagram.com/y_a_s_h_2711/)
-- 💼 **LinkedIn:** Add your LinkedIn profile URL here
+* 📧 **Email:** [yasatpute27@gmail.com](mailto:yasatpute27@gmail.com)
+* 💻 **GitHub:** [github.com/Yashas-2711](https://github.com/Yashas-2711)
+* 📸 **Instagram:** [instagram.com/y_a_s_h_2711](https://www.instagram.com/y_a_s_h_2711/)
+* 💼 **LinkedIn:** Add your LinkedIn profile URL here
 
 ---
 
