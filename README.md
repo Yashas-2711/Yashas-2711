@@ -14,13 +14,13 @@
 
 <p align="center">
   <a href="mailto:yasatpute27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/y_a_s_h_2711/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/Yash-Satpute-2711" target="_blank">
+  <a href="https://github.com/Yash-Satpute-2711">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/y_a_s_h_2711/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -28,12 +28,12 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 Third-Year Engineering student specializing in **Artificial Intelligence and Data Science**
-* 💼 Completed industrial training in **Web Design and Development** at **InnovationsHub Pvt. Ltd.**
-* 🚀 Passionate about building **AI-powered applications, SaaS platforms, and mobile applications**
-* 🌱 Currently exploring **Full-Stack Development, Generative AI, and AI integration**
-* 💡 Interested in solving real-world problems using scalable and intelligent software
-* 🤝 Open to collaborating on innovative **AI, web, and mobile development projects**
+- 🎓 Third-Year Engineering student specializing in **Artificial Intelligence and Data Science**
+- 💼 Completed industrial training in **Web Design and Development** at **InnovationsHub Pvt. Ltd.**
+- 🚀 Passionate about building **AI-powered applications, SaaS platforms, and full-stack systems**
+- 🌱 Currently exploring **Generative AI, mobile development, cloud deployment, and scalable backend architecture**
+- 💡 I enjoy converting real-world problems into useful software products
+- 🤝 Open to collaborating on innovative **AI, web, mobile, and data-driven projects**
 
 ---
 
@@ -41,140 +41,153 @@
 
 ### 👨‍💻 Programming Languages
 
-<p align="left">
+<p>
   <img
-    src="https://skillicons.dev/icons?i=c,cpp,java,python,go,js"
-    alt="Programming Languages: C, C++, Java, Python, Go and JavaScript"
+    src="https://skillicons.dev/icons?i=c,cpp,java,python,js"
+    alt="C, C++, Java, Python and JavaScript"
   />
 </p>
 
-### 🌐 Frontend and Web Development
+### 🌐 Frontend Development
 
-<p align="left">
+<p>
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"
-    alt="Frontend Technologies: HTML, CSS, JavaScript, React, Next.js and Tailwind CSS"
+    src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"
+    alt="HTML, CSS, React, Next.js and Tailwind CSS"
   />
 </p>
 
 ### ⚙️ Backend Development
 
-<p align="left">
+<p>
   <img
     src="https://skillicons.dev/icons?i=nodejs,express"
-    alt="Backend Technologies: Node.js and Express.js"
+    alt="Node.js and Express.js"
   />
 </p>
 
 ### 🗄️ Databases
 
-<p align="left">
+<p>
   <img
     src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"
-    alt="Databases: MongoDB, MySQL and PostgreSQL"
+    alt="MongoDB, MySQL and PostgreSQL"
   />
 </p>
 
-### 🛠️ Development Tools and Platforms
+### 🛠️ Tools and Platforms
 
-<p align="left">
+<p>
   <img
-    src="https://skillicons.dev/icons?i=git,github,vercel,vscode"
-    alt="Development Tools: Git, GitHub, Vercel and Visual Studio Code"
+    src="https://skillicons.dev/icons?i=git,github,vscode,vercel"
+    alt="Git, GitHub, Visual Studio Code and Vercel"
   />
 </p>
 
 ### 🚀 Additional Technologies
 
-* Next.js and React.js
-* React Native and Expo
-* Tailwind CSS
-* Node.js and Express.js
-* Drizzle ORM
-* Neon PostgreSQL
-* Clerk Authentication
-* Google Gemini API
-* REST API development
-* JWT authentication
-* SaaS architecture
-* Git and GitHub
-* Vercel deployment
+- React Native and Expo
+- REST APIs
+- JWT Authentication
+- Google Gemini API
+- Clerk Authentication
+- Drizzle ORM
+- Sequelize ORM
+- Neon PostgreSQL
+- SaaS Application Architecture
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 AI Form Builder SaaS
+### 💊 MediScan-AI – Medicine Identification App
 
-🔗 [View Repository](https://github.com/Yash-Satpute-2711/ai-form-builder)
+An AI-powered mobile application that identifies medicines from captured or uploaded images and displays useful medicine information.
 
-An AI-powered SaaS platform that generates dynamic forms based on natural-language prompts.
+**Key Features**
 
-**Key Features:**
+- Captures or uploads medicine images
+- Identifies medicine names using the Google Gemini API
+- Displays generic name, dosage, uses, side effects, warnings, manufacturer, and category
+- Provides AI confidence information
+- Supports text-to-speech for medicine details
+- Stores user scan history
+- Designed for Android using React Native and Expo
 
-* AI-powered dynamic form generation
-* Secure authentication using Clerk
-* Form customization and response collection
-* PostgreSQL database using Neon and Drizzle ORM
-* Responsive user interface
-* Deployment using Vercel
-* Planned payment and analytics features
+**Technology Stack**
 
-**Technology Stack:** Next.js, React.js, Tailwind CSS, Clerk, Drizzle ORM, Neon PostgreSQL, Gemini API and Vercel
+`React Native` `Expo` `TypeScript` `Gemini API` `AsyncStorage` `Text-to-Speech`
 
----
-
-### 🔹 AI Content Generator
-
-🔗 [View Repository](https://github.com/Yash-Satpute-2711/project2)
-
-An AI-powered application that generates structured content for different use cases.
-
-**Key Features:**
-
-* Content generation using AI APIs
-* Multiple content-generation templates
-* Clean and responsive interface
-* Fast content-generation workflow
-* Support for different content formats
-
-**Technology Stack:** React.js, Tailwind CSS, JavaScript and AI APIs
+**Status:** 🚧 Active Development
 
 ---
 
-### 🔹 AI Trip Planner 🌍
+### 🎓 EduManage-CMS – College Management System
 
-🔗 [View Repository](https://github.com/Yash-Satpute-2711/project3)
+A full-stack college management platform for handling students, courses, attendance, marks, fees, and administrative operations.
 
-An intelligent travel-planning application that creates personalized travel recommendations and itineraries.
+**Key Features**
 
-**Key Features:**
+- Student registration and profile management
+- Course creation and student enrollment
+- Attendance management
+- Internal, external, practical, and assignment marks
+- Fee payment and pending-fee tracking
+- Role-based administrative dashboard
+- JWT-based authentication and authorization
+- Reports, filters, and academic analytics
 
-* AI-generated travel plans
-* Personalized destination recommendations
-* Smart itinerary generation
-* API-based destination information
-* User-friendly travel-planning interface
+**Technology Stack**
 
-**Technology Stack:** React.js, JavaScript, Tailwind CSS, REST APIs and AI APIs
+`React.js` `Node.js` `Express.js` `MySQL` `Sequelize` `JWT` `Tailwind CSS`
+
+**Status:** 🚧 Active Development
 
 ---
 
-### 🔹 Image Steganography System 🔐
+### 🤖 AI Form Builder SaaS
 
-> 🚧 Currently under development
+An AI-powered SaaS platform that generates customizable forms from natural-language prompts.
 
-An Android-based security application that hides confidential information inside digital images.
 
-**Planned Features:**
+**Key Features**
 
-* Hide secret text inside images
-* Extract hidden information securely
-* Image-processing implementation
-* Secure data encoding and decoding
-* Android-friendly user interface
+- Generates forms using natural-language prompts
+- Supports customizable form fields and layouts
+- Provides secure authentication using Clerk
+- Stores forms and responses in Neon PostgreSQL
+- Allows users to collect and manage responses
+- Supports themes and background customization
+- Deployed using Vercel
 
-**Technology Stack:** Android, Java, image processing and information-security concepts
+**Technology Stack**
+
+`Next.js` `React.js` `Tailwind CSS` `Gemini API` `Clerk` `Drizzle ORM` `Neon PostgreSQL` `Vercel`
+
+**Status:** ✅ Completed and Deployed
+
+---
+
+### 📊 HabitSync – Habit Tracking and Analytics System
+
+A habit-management application designed to help users build routines, record daily progress, maintain streaks, and view performance analytics.
+
+**Planned Features**
+
+- Create and manage personal habits
+- Mark daily habit completion
+- Track current and longest streaks
+- View weekly and monthly progress
+- Display charts and completion statistics
+- Provide habit reminders
+- Generate personalized progress insights
+- Store individual user history securely
+
+**Planned Technology Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `JavaScript` `Chart.js`
+
+**Status:** 🧪 Prototype / Planned Development
 
 ---
 
@@ -182,7 +195,7 @@ An Android-based security application that hides confidential information inside
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Yash-Satpute-2711&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Yashas-2711&show_icons=true&theme=radical&hide_border=true"
     alt="Yash Satpute GitHub Statistics"
     height="180"
   />
@@ -194,7 +207,7 @@ An Android-based security application that hides confidential information inside
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Satpute-2711&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas-2711&layout=compact&theme=radical&hide_border=true"
     alt="Yash Satpute Most-Used Programming Languages"
     height="180"
   />
@@ -208,7 +221,7 @@ An Android-based security application that hides confidential information inside
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Satpute-2711&theme=react-dark&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Yashas-2711&theme=react-dark&hide_border=true"
     alt="Yash Satpute GitHub Contribution Activity Graph"
     width="100%"
   />
@@ -218,35 +231,16 @@ An Android-based security application that hides confidential information inside
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  📧 <strong>Email:</strong>
-  <a href="mailto:yasatpute27@gmail.com">yasatpute27@gmail.com</a>
-</p>
-
-<p align="left">
-  💻 <strong>GitHub:</strong>
-  <a href="https://github.com/Yash-Satpute-2711" target="_blank">
-    github.com/Yash-Satpute-2711
-  </a>
-</p>
-
-<p align="left">
-  📸 <strong>Instagram:</strong>
-  <a href="https://www.instagram.com/y_a_s_h_2711/" target="_blank">
-    instagram.com/y_a_s_h_2711
-  </a>
-</p>
-
-<p align="left">
-  💼 <strong>LinkedIn:</strong>
-  Add your LinkedIn profile URL here
-</p>
+- 📧 **Email:** [yasatpute27@gmail.com](mailto:yasatpute27@gmail.com)
+- 💻 **GitHub:** [github.com/Yash-Satpute-2711](https://github.com/Yash-Satpute-2711)
+- 📸 **Instagram:** [instagram.com/y_a_s_h_2711](https://www.instagram.com/y_a_s_h_2711/)
+- 💼 **LinkedIn:** Add your LinkedIn profile URL here
 
 ---
 
 ## ✨ Fun Fact
 
-> 💡 I enjoy transforming innovative ideas into real-world AI applications, SaaS platforms, and useful digital products.
+> 💡 I love turning ideas into real-world AI applications, SaaS platforms, and useful digital products.
 
 ---
 
