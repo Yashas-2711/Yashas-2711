@@ -1,39 +1,50 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:7C3AED,100:4F46E5&text=YASH%20ANKUSH%20SATPUTE&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=AI%20Developer%20|%20Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=60"/>
+
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png"
-    alt="Yash Satpute Developer Banner"
-    width="100%"
-  />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=25&duration=3500&pause=1000&color=606271&center=true&vCenter=true&width=950&lines=👋+Hi,+I'm+Yash+Ankush+Satpute;AI+Application+Developer;Full+Stack+Web+Developer;Building+Intelligent+Applications;Always+Learning+Something+New+🚀" alt="Typing SVG"/>
+  </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Yash Ankush Satpute</h1>
-
-<h3 align="center">
-  🚀 AI & Full-Stack Developer | Building Intelligent Web and Mobile Applications
-</h3>
+<!-- ===================== PROFILE BADGES ===================== -->
 
 <p align="center">
-  <a href="mailto:yasatpute27@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
+
+  <img src="https://img.shields.io/badge/B.E.%20AI%20%26%20Data%20Science-Student-6D28D9?style=for-the-badge&labelColor=0B0B12"/>
+
+  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Developer-7C3AED?style=for-the-badge&labelColor=0B0B12"/>
+
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-4F46E5?style=for-the-badge&labelColor=0B0B12"/>
+
+  <img src="https://img.shields.io/badge/Open%20To-Software%20Engineering-8B5CF6?style=for-the-badge&labelColor=0B0B12"/>
+
+</p>
+
+
+<!-- ===================== SOCIAL LINKS ===================== -->
+
+<p align="center">
 
   <a href="https://github.com/Yashas-2711">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-Profile-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  </a>
+
+  <a href="https://linkedin.com/in/yash-satpute-554031286/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
   </a>
 
   <a href="https://www.instagram.com/y_a_s_h_2711/">
-    <img
-      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
   </a>
+
+  <a href="mailto:your-yasatpute27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+  </a>
+
 </p>
+</div>
+
 
 ---
 
@@ -242,7 +253,7 @@ A habit-management application designed to help users build routines, record dai
 * 📧 **Email:** [yasatpute27@gmail.com](mailto:yasatpute27@gmail.com)
 * 💻 **GitHub:** [github.com/Yashas-2711](https://github.com/Yashas-2711)
 * 📸 **Instagram:** [instagram.com/y_a_s_h_2711](https://www.instagram.com/y_a_s_h_2711/)
-* 💼 **LinkedIn:** Add your LinkedIn profile URL here
+* 💼 **LinkedIn:** [Linkedin.com/yash-satpute](https://www.linkedin.com/in/yash-satpute-554031286/)
 
 ---
 
