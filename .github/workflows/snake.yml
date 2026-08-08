@@ -1,0 +1,40 @@
+name: Generate Snake
+
+on:
+  # Run every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+
+  # Allow manual execution from GitHub Actions
+  workflow_dispatch:
+
+jobs:
+  generate:
+    name: Generate Contribution Snake
+    runs-on: ubuntu-latest
+
+    # Required to allow the workflow to push
+    # generated files to the output branch
+    permissions:
+      contents: write
+
+    steps:
+      # Generate the contribution snake
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Yashas-2711
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
+
+      # Publish generated files to the output branch
+      - name: Push Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
