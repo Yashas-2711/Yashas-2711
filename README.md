@@ -256,17 +256,7 @@ A habit-management application designed to help users build routines, record dai
 * 💼 **LinkedIn:** [Linkedin.com/yash-satpute](https://www.linkedin.com/in/yash-satpute-554031286/)
 
 ---
-
-## ✨ Fun Fact
-
-> 💡 I love turning ideas into real-world AI applications, SaaS platforms, and useful digital products.
-
----
-
 <p align="center">
   <strong>⭐ Thank you for visiting my GitHub profile!</strong>
 </p>
 
-<p align="center">
-  Made with ❤️ by <strong>Yash Satpute</strong>
-</p>
