@@ -217,22 +217,22 @@ A habit-management application designed to help users build routines, record dai
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashas-2711&theme=radical"
-    alt="Yash Satpute GitHub Statistics"
+    alt="Yash Ankush Satpute GitHub Statistics"
   />
 </p>
 
 ---
 
-## 🔥 Most-Used Languages
+## 💻 Top Languages
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashas-2711&theme=radical"
-    alt="Yash Satpute Most-Used Programming Languages"
+    alt="Yash Ankush Satpute Top Programming Languages"
   />
 </p>
 
-> The language statistics are based only on public GitHub repositories and do not represent overall programming experience.
+> Language statistics are based on the public repositories represented by the GitHub Profile Summary Cards service and should not be considered a measure of overall programming experience.
 
 ---
 
@@ -240,11 +240,13 @@ A habit-management application designed to help users build routines, record dai
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Yashas-2711&theme=react-dark&hide_border=true"
-    alt="Yash Satpute GitHub Contribution Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Yashas-2711&theme=react-dark&hide_border=true&area=true"
+    alt="Yash Ankush Satpute GitHub Contribution Activity Graph"
     width="100%"
   />
 </p>
+
+---
 
 ---
 
