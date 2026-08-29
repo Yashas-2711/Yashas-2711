@@ -238,13 +238,7 @@ A habit-management application designed to help users build routines, record dai
 
 ## 📈 GitHub Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Yashas-2711&theme=react-dark&hide_border=true&area=true"
-    alt="Yash Ankush Satpute GitHub Contribution Activity Graph"
-    width="100%"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashas-2711&theme=react-dark&hide_border=true&area=true" alt="Yash Ankush Satpute GitHub Contribution Activity Graph" width="100%" /> </p>
 
 ---
 
@@ -257,8 +251,5 @@ A habit-management application designed to help users build routines, record dai
 * 📸 **Instagram:** [instagram.com/y_a_s_h_2711](https://www.instagram.com/y_a_s_h_2711/)
 * 💼 **LinkedIn:** [Linkedin.com/yash-satpute](https://www.linkedin.com/in/yash-satpute-554031286/)
 
----
-<p align="center">
-  <strong>⭐ Thank you for visiting my GitHub profile!</strong>
-</p>
+
 
